@@ -1,0 +1,19 @@
+{
+  "listingMap": {
+    "posts/index.qmd": [
+      "*.qmd"
+    ],
+    "talks/index.qmd": [
+      "."
+    ],
+    "media/index.qmd": [
+      "."
+    ],
+    "publications/index.qmd": [
+      "."
+    ],
+    "theme-3/index.qmd": [
+      "."
+    ]
+  }
+}

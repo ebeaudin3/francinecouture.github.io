@@ -1,0 +1,45 @@
+---
+title: "Francine Couture"
+about:
+    template: trestles
+    image: francine-2024.heic
+lang: fr
+---
+
+<!-- ## Biographie
+Francine Couture est professeure au département d’histoire de l’art depuis 1974. Son enseignement porte sur l’approche sociologique des arts visuels et l’analyse des institutions artistiques. Ses activités de recherche, étroitement liées à celles de son enseignement, sont axées sur l’étude de divers objets concernant le contexte de la vie artistique: le marché de l’art, les arts visuels au Québec durant les année soixante, les expositions d’art contemporain au cours des années soixante-dix et quatre-vingt et la question de la pérennité de l’art contemporain. Ses activités d’enseignement et de recherche l’ont menée à des points de rencontre entre l’histoire de l’art et la sociologie de l’art.
+-->
+
+## Formation académique
+- Baccalauréat en histoire de l'art, Université de Montréal, 1968-1971
+- Maîtrise en histoire de l'art, Université de Paris-Nanterre, 1971-1973
+- Doctorat en anthropologie social et culture, École pratique des hautes études à Paris, 1973-1981
+- Études post-doctorales, Département de Sociologie, Université de Montréal, 1982-1983
+
+## Expérience professionelle
+- Photothécaires, Musée des Beaux-Arts de Montréal, 1969-1971
+- Chargée de cours, Université du Québec à Montréal (UQAM), 1973-1974
+- Professeure, Université du Québec à Montréal (UQAM), 1974-2010
+- Professeure associée, Université du Québec à Montréal (UQAM), depuis 2010
+
+## Expérience en administration
+- Directrice de la Maîtrise en Études des arts, Université du Québec à Montréal (UQAM), 1981-1983
+- Directrice de la Maîtrise en Études des arts, Université du Québec à Montréal (UQAM), 1993-2002
+- Directrice du doctorat conjoint en Histoire de l'art (Université du Québec à Montréal, Université de Montréal, Université Concordia, Université Laval), 1997-2002
+- Vice-doyenne à la recherche et à la création, Faculté des arts, Université du Québec à Montréal (UQAM), 2005-2008
+
+## Recherches
+Mes activités d’enseignement et de recherche m’ont amenée à établir des points de rencontre entre l’histoire de l’art et la sociologie de l’art. Mes travaux de recherche ont porté sur les rapports de l’art contemporain du Québec avec l’institution artistique et le contexte socioculturel. Cette posture interdisciplinaire m’a conduite à étudier le rôle de médiation joué par les différents intermédiaires assurant le passage des œuvres de l’atelier de l’artiste vers les lieux de diffusion. Au fil de ma carrière, j'ai constitué trois équipes de recherche dont les travaux ont donné lieu à la publication des ouvrages collectifs suivants, dont j'ai assuré la direction :
+
+- *Les arts visuels au Québec dans les soixante, La reconnaissance de la modernité* (1993)
+- *Les arts visuels au Québec dans les années soixante*, *L’éclatement du modernisme* (1997)
+
+  J'ai contribué à ces ouvrages en étudiant les pratiques artistiques et les discours de la critique d’art qui ont favorisé les relations entre l’art et la technologie.
+
+- *Exposer l’art contemporain du Québec. Discours d’intention et d’accompagnement* (2003)
+
+  Mon étude a démontré que, dans les années 1970 et 1980, a émergé une nouvelle représentation territoriale de l’art du Québec que j'ai qualifiée de montréalisation de l’art contemporain.
+
+- *Variations et pérennité des œuvres contemporaines ?* (2013)
+
+  J'ai analysé les conditions de mise en vue d’œuvres contemporaines qui ont été l'objet de variations. Le sujet de mon étude a été les pratiques des professionnels/les des musées qui ont eu à composer avec les variations d’œuvres de collections muséales, lesquelles ont remis en cause leur état originel et les critères conventionnels attestant de leur intégrité et de leur authenticité.

@@ -1,0 +1,177 @@
+{
+  "index.qmd": {
+    "index.html": "32ee6f94"
+  },
+  "posts/asemantic-induction-of-hallucinations/index.qmd": {
+    "index.html": "0f45e115"
+  },
+  "posts/ransomware-prisoners-dilemma/index.qmd": {
+    "index.html": "15726a0d"
+  },
+  "posts/team-of-rivals/index.qmd": {
+    "index.html": "83824ee2"
+  },
+  "posts/quarto-project-scripts/index.qmd": {
+    "index.html": "b46d6383"
+  },
+  "posts/a-different-shade-of-grey/index.qmd": {
+    "index.html": "473d1b2f"
+  },
+  "posts/five-non-data-science-books-for-data-scientists/index.qmd": {
+    "index.html": "6d18511e"
+  },
+  "posts/prompt-engineering/index.qmd": {
+    "index.html": "842ea575"
+  },
+  "posts/ai-human-interaction/index.qmd": {
+    "index.html": "b7a7658b"
+  },
+  "posts/llms-language/index.qmd": {
+    "index.html": "28d0f216"
+  },
+  "posts/julia-a-post-mortem/index.qmd": {
+    "index.html": "c15fa887"
+  },
+  "posts/paxlovid/index.qmd": {
+    "index.html": "903a942e"
+  },
+  "posts/skeuomorphic-fallacy/index.qmd": {
+    "index.html": "94dfc25a"
+  },
+  "posts/dwarf-fortress/index.qmd": {
+    "index.html": "d14e163d"
+  },
+  "posts/index.qmd": {
+    "index.html": "9cf70b3e"
+  },
+  "posts/as-we-may-see/index.qmd": {
+    "index.html": "0dd57c83"
+  },
+  "posts/mrna-gene-therapy/index.qmd": {
+    "index.html": "d77cc2db"
+  },
+  "posts/skierg-marathon/skierg-marathon.ipynb": {
+    "skierg-marathon.html": "bc253fdb",
+    "skierg-marathon.out.ipynb": "3774df75",
+    "skierg-marathon-preview.html": "f2e6df24"
+  },
+  "posts/skierg-marathon/index.qmd": {
+    "index.html": "7237b894"
+  },
+  "posts/moral-maps/moral-maps.ipynb": {
+    "moral-maps.html": "330a1023",
+    "moral-maps.out.ipynb": "f5b0949c",
+    "moral-maps-preview.html": "16243eb1"
+  },
+  "posts/moral-maps/index.qmd": {
+    "index.html": "f3917036"
+  },
+  "posts/quora-answers/index.qmd": {
+    "index.html": "4fd2bd86"
+  },
+  "posts/data-for-the-next-pandemic/index.qmd": {
+    "index.html": "a019b660"
+  },
+  "posts/academic-generative-ai/index.qmd": {
+    "index.html": "d8c1fe94"
+  },
+  "posts/auto-doi/index.qmd": {
+    "index.html": "7a586f27"
+  },
+  "posts/lyre-of-hephaestus/index.qmd": {
+    "index.html": "a2a1e95f"
+  },
+  "posts/knowledge-dividend-of-llms/index.qmd": {
+    "index.html": "2edd2755"
+  },
+  "posts/lair/index.qmd": {
+    "index.html": "7ef20e65"
+  },
+  "posts/95-percent-myth/index.qmd": {
+    "index.html": "d4848978"
+  },
+  "disclaimer/index.qmd": {
+    "index.html": "fc671a26"
+  },
+  "papers/index.qmd": {
+    "index.html": "57dcac56"
+  },
+  "talks/prometheus-unbound/index.qmd": {
+    "index.html": "b1138df5"
+  },
+  "talks/index.qmd": {
+    "index.html": "5ce3ce5d"
+  },
+  "teaching/index.qmd": {
+    "index.html": "2fa1b721"
+  },
+  "media/fr-disinfectants/index.qmd": {
+    "index.html": "4d79acdd"
+  },
+  "media/tech-for-good/index.qmd": {
+    "index.html": "31f9124c"
+  },
+  "media/index.qmd": {
+    "index.html": "08080b8d"
+  },
+  "media/euronews-covid/index.qmd": {
+    "index.html": "02439566"
+  },
+  "theme-1/index.qmd": {
+    "index.html": "a94cca8c"
+  },
+  "publications/fr-disinfectants/index.qmd": {
+    "index.html": "5668213f"
+  },
+  "publications/tech-for-good/index.qmd": {
+    "index.html": "230db86f"
+  },
+  "publications/index.qmd": {
+    "index.html": "cef78e83"
+  },
+  "publications/euronews-covid/index.qmd": {
+    "index.html": "2c65daae"
+  },
+  "theme-2/index.qmd": {
+    "index.html": "a783892b"
+  },
+  "theme-3/prometheus-unbound/index.qmd": {
+    "index.html": "f4958eb1"
+  },
+  "theme-3/index.qmd": {
+    "index.html": "6aa90098"
+  },
+  "install.qmd": {
+    "install.html": "2cec5c12"
+  },
+  "theme1.qmd": {
+    "theme1.html": "efc83130"
+  },
+  "theme2.qmd": {
+    "theme2.html": "10d564ed"
+  },
+  "theme3.qmd": {
+    "theme3.html": "13b03f5a"
+  },
+  "publications.qmd": {
+    "publications.html": "9cfaf82a"
+  },
+  "retro1.qmd": {
+    "retro1.html": "25c7f499"
+  },
+  "retro2.qmd": {
+    "retro2.html": "8be6b62d"
+  },
+  "retro3.qmd": {
+    "retro3.html": "c58db039"
+  },
+  "parcours-aca.qmd": {
+    "parcours-aca.html": "43b358bf"
+  },
+  "parcours_aca.qmd": {
+    "parcours_aca.html": "49c9da16"
+  },
+  "cv.qmd": {
+    "cv.html": "8db1ec52"
+  }
+}

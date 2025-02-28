@@ -1,0 +1,48 @@
+project:
+  title: Francine Couture
+  type: website
+
+website:
+  title: "Francine Couture"
+  description: "Francine Couture personale website."
+  search: false
+      
+  # options
+  reader-mode: false
+  back-to-top-navigation: true
+        
+  # footer
+  page-footer:
+    border: false
+    left: "@ÉliseBeaudin2024"
+    
+  #nav
+  navbar:
+    right:
+      - text: Parcours Académique
+        href: parcours_aca.qmd
+      - text: Rétrospective
+        menu: 
+          - href: retro1.qmd
+          - href: retro2.qmd
+          - href: retro3.qmd
+      - text: Curriculum Vitae
+        href: cv.qmd
+
+format:
+  html:
+    theme:
+      - lux
+      - _variables.scss
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    toc_smooth_scroll: true
+    toc_highlight: true
+    toc_expand: true
+    fig-align: center
+    
+
+output:
+  html_document:
+    css: styles.css
