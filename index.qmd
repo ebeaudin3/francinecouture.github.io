@@ -1,5 +1,9 @@
 ---
 title: "Francine Couture"
+description: "Site personnel de Francine Couture."
+format:
+  html:
+    include-in-header: meta.html
 about:
     template: trestles
     image: francine-2024-png.png
