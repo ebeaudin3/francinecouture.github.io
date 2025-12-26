@@ -1,6 +1,6 @@
 ---
 title: "Francine Couture"
-description: "Site personnel de Francine Couture."
+description: ""
 format:
   html:
     include-in-header: meta.html
